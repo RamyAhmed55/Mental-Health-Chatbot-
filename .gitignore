@@ -1,0 +1,10 @@
+emotion Detection/emotion_model.pt
+Intent Classifier/.env
+
+.env
+*.env
+
+*.pt
+
+__pycache__/
+.ipynb_checkpoints/
