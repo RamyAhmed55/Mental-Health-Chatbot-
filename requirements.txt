@@ -1,0 +1,28 @@
+# Data
+datasets
+pandas
+numpy
+
+# Language Detection
+scikit-learn
+emoji
+joblib
+
+# Emotion Classifier
+torch
+transformers
+sentence-transformers
+
+# Intent Classifier + RAG
+langchain
+langchain-groq
+langchain-core
+groq
+
+# Vector DB
+qdrant-client
+
+# Utils
+python-dotenv
+tqdm
+flask
